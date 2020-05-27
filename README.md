@@ -1,2 +1,2 @@
-# stripe-django-webhook-
+# stripe-django-webhook
 a django webhook for stripe
