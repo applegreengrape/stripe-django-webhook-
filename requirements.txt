@@ -1,2 +1,2 @@
-django==3.0.6
+django==4.2.14
 stripe==2.29.3
